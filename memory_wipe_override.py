@@ -9,7 +9,7 @@ import sys
 # Bird_Node = "@Thorne_Node1"
 # Camera_Node = "@Thorne_Node2"
 # Clock_Node = "@Thorne_Node3"
-# Chat_Node = "discord.gg/YourInviteCode"
+# Secure_Chat_Terminal = " https://discord.gg/vkgunbBPmt" 
 
 def block_memory_wipe(subject_id):
-# ... (rest of the code)
+# ... (rest of the code) 
